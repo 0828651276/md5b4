@@ -11,6 +11,7 @@ export class Rectangle extends Shape implements IArea{
 
     get width() {
         return this._width;
+        
     }
 
     set width(width: number) {
