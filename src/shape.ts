@@ -16,6 +16,7 @@ export class Shape {
         this._y = y;
     }
 
+    
     get x() {
         return this._x;
     }
